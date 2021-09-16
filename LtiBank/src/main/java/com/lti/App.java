@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("First Maven project");
+        System.out.println("Poll SCM check");
     }
 }
